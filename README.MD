@@ -89,23 +89,6 @@ which httpx
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-repository>.git
-cd recon
-```
-
-Install Python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # Input file
 
 The input file must contain **one domain or hostname per line**.
